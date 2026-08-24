@@ -249,9 +249,9 @@ a:hover .tooltip,
 
 .img-box img {
     position: absolute;
-    top: 3rem;
+    top: -1rem;
     display: block;
-    width: 85%;
+    width: 100%;
     object-fit: cover;
 }
 
